@@ -8,4 +8,8 @@
 	function calnum($x, $y){
 		return $x + $y;
 	}
+
+	function devidenum($x,$y){
+		return $x / $y;
+	}
 ?>
