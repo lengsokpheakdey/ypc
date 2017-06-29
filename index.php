@@ -1,4 +1,7 @@
 <?php
-	echo "Hello World!!";
-
+	echo helloworld("hello world");
+	
+	function helloworld($str){
+		return $str;
+	}
 ?>
